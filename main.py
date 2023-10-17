@@ -80,7 +80,7 @@ if st.session_state["authentication_status"]:
   with col1:
     st.write(' ')
   with col2:
-    st.session_state["vLang"] = st.toggle("English", value=True)
+    st.session_state["vLang"] = st.toggle("English", value=False)
 
   ### Welcome and Logout buttons ###
   col1, col2 = st.columns([0.9, 0.1])
