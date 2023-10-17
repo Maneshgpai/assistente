@@ -1,0 +1,8 @@
+openai
+streamlit
+PyPDF2
+python-dotenv
+loguru
+streamlit-option-menu
+streamlit-authenticator
+tiktoken

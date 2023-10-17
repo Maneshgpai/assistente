@@ -1,0 +1,19 @@
+credentials:
+  usernames:
+    your_uname1:
+      email: mail_id1
+      name: first_nm1 last_nm1
+      password:  hashed_pwd1 # Hash using streamlit_authenticator.Hasher
+    your_uname2:
+      email: mail_id2
+      name: first_nm2 last_nm2
+      password:  hashed_pwd2 # Hash using streamlit_authenticator.Hasher
+cookie:
+  expiry_days: 30
+  key: # Secret Key generated using cryptography.fernet
+  name: # name
+preauthorized:
+  emails:
+  - admin_mail_id
+
+

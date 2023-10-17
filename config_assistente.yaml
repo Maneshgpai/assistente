@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      email: hi@assistente.com
+      name: Admin
+      password: $2b$12$Y5ApxfiQE4RfOVdupjQ9aOR7gU8cyIWmLJCJd5LsDRkkk12bMsqNC # admin@123
+cookie:
+  expiry_days: 30
+  key: gAAAAABlJVNLvN6Yi0KH-xmBGP3lJYw7YDWdPr-dHn4hC0IR2foOai1GGTszI7MCcijAyecLKrk3GiJp_dTaQ47bsBqRN1k-vA==
+  name: medcodecookie
+preauthorized:
+  emails:
+  - maneshgpai@gmail.com
+
